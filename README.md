@@ -1,4 +1,4 @@
-# AI Resume Analyzer Pro
+# AI Resume Analyzer 
 
 A production-level modular AI Resume Analyzer built with Python and Streamlit.
 
