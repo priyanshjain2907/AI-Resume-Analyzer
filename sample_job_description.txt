@@ -1,0 +1,19 @@
+
+    Job Title: Senior Python Backend Engineer
+    Location: Remote
+    
+    About the Role:
+    We are looking for a Senior Python Developer to join our core team. You will be responsible for building high-performance APIs and managing scalable data systems.
+    
+    Requirements:
+    - 5+ years of experience with Python (FastAPI or Django).
+    - Strong experience with SQL (PostgreSQL) and NoSQL (Redis).
+    - Deep understanding of Docker and Kubernetes.
+    - Experience with AWS services (EC2, S3, RDS).
+    - Knowledge of CI/CD practices and Git.
+    - Ability to lead teams and mentor junior developers.
+    
+    Bonus Skills:
+    - Experience with Rust or Go.
+    - Knowledge of Machine Learning pipelines.
+    
